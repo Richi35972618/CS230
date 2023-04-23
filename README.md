@@ -1,1 +1,7 @@
-# CS230
+Journal
+The client is Gaming Room, they are a gaming industry service. Their wishes were to have a cloud-based server for their users to use. Gaming Room was servicing their client base with a server to host games online and for potential streaming. 
+My documentation had detailed systems requirements for their needs. What type of systens and the likelihood of what would be required for their use 
+The document aided me in my thinking process to the best of my knowledge to code. It gave a guideline for how best to start the coding. Since some systems do better with some languages than others it allows for a narrowing of possibilities, Early insights can kept production time down and more focused.
+The first part of my project needs more refinement. I did not give it the time and respect it deserved
+As a gamer myself I understand some of the wishes of Game Room’s clientele. Clear connections, plenty of options, ability to stream. Users’ needs are always important to think about in the building of a project. If the client is not happy with the work then the job is not done. 
+Future software will have a better understanding of the process going forward. Starting off with an idea of the client and their needs. While I understand this client it does not mean I’ll understand the next as well. For a similar build, I would suggest similar work to what was done here adding to that more possible options I might be able to improve on since
